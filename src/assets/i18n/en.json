@@ -1,0 +1,72 @@
+{
+  "cm": {
+    "ok": "Đồng ý",
+    "cancel": "Hủy bỏ",
+    "back": "Quay lại",
+    "updating": "Đang cập nhật",
+    "next": "Tiếp tục",
+    "settings": "Cài đặt",
+    "submit": "Xác nhận",
+    "success": "Thành công",
+    "skip": "Bỏ qua",
+    "alert": "Thông báo",
+    "search": "Tìm kiếm",
+    "done": "Xong",
+    "save": "Lưu",
+    "close": "Đóng",
+    "confirm_now": "Xác thực ngay",
+    "more": "Xem tất cả",
+    "hide": "Ẩn",
+    "view_detail": "Xem chi tiết",
+    "no_data": "Hiện tại chưa có sản phẩm phù hợp với các tiêu chí của bạn.",
+    "not_found": "Không có kết quả nào",
+    "sort": "Sắp xếp",
+    "error": "Lỗi",
+    "cannot_call": "Không thể thực hiện cuộc gọi. Xin thử lại",
+    "list_empty": "Hiện tại chưa có dữ liệu",
+    "placeholder_search": "Nhập từ khóa",
+    "delete": "Xóa",
+    "upload_success": "Tải lên thành công",
+    "copy": "Sao chép",
+    "copy_success": "Sao chép thành công",
+    "upload": "Tải lên",
+    "empty_phone_number": "Không tìm thấy số điện thoại",
+    "unavailable_camera": "Camera không khả dụng",
+    "update": "Cập nhật",
+    "update_message": "Đã có phiên bản mới. Cập nhật ngay để trải nghiệm"
+  },
+  "tab_bar": {
+    "home": "Trang chủ",
+    "chat": "Chat",
+    "inbox": "InBox",
+    "cart": "Giỏ hàng",
+    "profile": "Tài khoản",
+    "pet_care": "Pet Care"
+  },
+  "item_product": {
+    "sold": "Đã bán"
+  },
+  "login": {
+    "title": "Đăng nhập"
+  },
+  "register": {
+    "title": "Đăng ký"
+  },
+  "home": {
+    "sale": "Giảm giá",
+    "trending": "Xu hướng mua hàng",
+    "filter": "Lọc"
+  },
+  "search": {
+    "no_data": "Không có kết quả nào",
+    "have_number_data_length": "Có {{length}} kết quả",
+    "sort_by": "Sắp xếp theo"
+  },
+  "notification": {
+    "title": "Thông báo",
+    "filter": "Bộ lọc"
+  },
+  "detail_notification": {
+    "title": "Thông báo"
+  }
+}
